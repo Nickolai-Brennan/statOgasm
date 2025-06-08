@@ -173,4 +173,5 @@ font-family: 'Bebas Neue', Impact, Arial, sans-serif;
 
 * **Created:** June 8, 2025
 * **Author:** Nickolai Brennan
-* * **Brand:** StatoGasm™ ModzMouse … ᘛ⁐̤ᕐᐷ
+* * **Brand:** StatoGasm™
+* * ***Parent Company*** Chase The Cheese™ … ᘛ⁐̤ᕐᐷ
