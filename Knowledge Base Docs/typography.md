@@ -239,4 +239,5 @@ font-family: 'Bebas Neue', Impact, Arial, sans-serif;
 ## 📄 Version
 
 * **Created:** June 8, 2025
-* **Author:** xSTATx | Branding: StatoGasm bySTRIK3
+* **Author:** Nickolai Brennan
+* **Company:** Chase The Cheese™ … ᘛ⁐̤ᕐᐷ 🧀
